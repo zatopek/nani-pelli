@@ -37,7 +37,7 @@ export default function Seating() {
                             </div>
                             <div className="sm:col-span-full lg:col-span-full">
                                 <p className="mt-3 text-xl text-gray-900 py-10">
-                                    We're looking forward to spending time with on this special day.
+                                    We&apos;re looking forward to spending time with on this special day.
                                 </p>
                                 <p className="mt-3 text-3xl text-gray-900">
                                     Please proceed to <br />Table {table}.

@@ -20,7 +20,7 @@ export default function Home() {
             <div className="grid max-w-2xl grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6 md:col-span-2">
               <div className="sm:col-span-full lg:col-span-full">
                 <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                  Anvesh & Varsha's Reception.
+                  Anvesh & Varsha&apos;s Reception.
                   <br />
                 </h2>
               </div>

@@ -13,9 +13,9 @@ export default function Home() {
   };
   
   return (
-    <main className="container mx-auto sm:px-6 lg:px-8 lg:py-8">
-      <div className="bg-white bg-opacity-30 px-6 py-36 mx-auto h-full w-fit">
-        <div className="px-6 py-24 sm:px-2 sm:py-10 lg:px-8">
+    <main className="container mx-auto sm:px-6 lg:px-8 lg:py-8 h-screen">
+      <div className="bg-white bg-opacity-30 mx-auto h-full w-fit">
+        <div className="px-6 py-24 sm:px-2 sm:py-8 lg:px-8">
           <div className="mx-auto max-w-2xl text-center">
             <div className="grid max-w-2xl grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6 md:col-span-2">
               <div className="sm:col-span-full lg:col-span-full">

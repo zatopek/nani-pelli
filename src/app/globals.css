@@ -6,6 +6,8 @@
   --foreground-rgb: 255, 255, 255;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  background-image: url('/bga.jpg');
+  height: 100%;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -22,5 +24,7 @@ body {
       transparent,
       rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
   background-image: url('/bg1.jpg');
-  background-size: cover;
+  background-size: 125% 125%;
+  background-position: left top;
+  background-repeat: no-repeat;
 }
